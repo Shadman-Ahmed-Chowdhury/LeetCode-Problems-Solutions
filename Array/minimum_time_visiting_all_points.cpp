@@ -4,9 +4,8 @@
 class Solution {
 public:
     int minTimeToVisitAllPoints(vector<vector<int>>& points) {
-        int n = points.size();
         int timeToReach = 0;
-        for(int i = 0; i < n - 1; i++) {
+        for(int i = 0; i < points.size() - 1; i++) {
             int x1 = points[i][0];
             int y1 = points[i][1];
 
