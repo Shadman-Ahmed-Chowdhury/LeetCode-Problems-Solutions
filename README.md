@@ -3,6 +3,11 @@
 ### ProblemName - Difficulty - Solution
 
 
+### Array
+
+- [x] [Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/description/) - Easy - [Solution](/Array/minimum_time_visiting_all_points.cpp)
+
+
 ### String
 
 - [x] [Check if Two String Arrays Are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/) - Easy - [Solution](https://github.com/Shadman-Ahmed-Chowdhury/LeetCode-Problems-Solutions/blob/master/String/check_if_two_string_arrays_are_equivalent.cpp)
