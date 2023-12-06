@@ -5,7 +5,7 @@
 ### Math
 
 - [x] [Count of Matches in Tournament](https://leetcode.com/problems/count-of-matches-in-tournament/description/) - Easy - [Solution](/Math/count_of_matches_in_tournament.cpp)
--[x] [Calculate Mone in LeetCode Bank](https://leetcode.com/problems/calculate-money-in-leetcode-bank/description/) - Easy - [Solution](/Math/calculate_money_in_leetcode_bank.cpp)
+- [x] [Calculate Mone in LeetCode Bank](https://leetcode.com/problems/calculate-money-in-leetcode-bank/description/) - Easy - [Solution](/Math/calculate_money_in_leetcode_bank.cpp)
 
 
 ### Array
