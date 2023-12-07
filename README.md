@@ -18,6 +18,7 @@
 - [x] [Check if Two String Arrays Are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/) - Easy - [Solution](https://github.com/Shadman-Ahmed-Chowdhury/LeetCode-Problems-Solutions/blob/master/String/check_if_two_string_arrays_are_equivalent.cpp)
 - [x] [Find Words That Can Be Formed By Characters]() - Easy - [Solution](/String/find_words_that_can_be_formed_by_characters.cpp)
 - [x] [Largest 3-Same-Digit Number in String](https://leetcode.com/problems/largest-3-same-digit-number-in-string/description) - Easy - [Solution](/String/largest_3_same_digit_number_in_string.cpp)
+- [x] [Largest Odd Number in String](https://leetcode.com/problems/largest-odd-number-in-string/description/) - Easy - [Solution](/String/largest_odd_number_in_string.cpp)
 
 ### Tree
 
