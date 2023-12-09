@@ -23,4 +23,5 @@
 ### Tree
 
 - [x] [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/description/) - Easy - [Solution](https://github.com/Shadman-Ahmed-Chowdhury/LeetCode-Problems-Solutions/blob/master/Tree/convert_sorted_array_to_bst.cpp)
--[x] [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/description/) - Easy - [Solution](/Tree/construct_string_from_binary_tree.cpp)
+- [x] [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/description/) - Easy - [Solution](/Tree/construct_string_from_binary_tree.cpp)
+- [x] [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/) - Easy - [Solution](/Tree/binary_tree_inorder_traversal.cpp)
