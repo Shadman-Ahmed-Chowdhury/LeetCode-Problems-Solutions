@@ -11,6 +11,7 @@
 ### Array
 
 - [x] [Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/description/) - Easy - [Solution](/Array/minimum_time_visiting_all_points.cpp)
+- [x] [Tranpose Matrix](https://leetcode.com/problems/transpose-matrix/description/) - Easy - [Solution](/Array/transpose_matrix.cpp)
 
 
 ### String
