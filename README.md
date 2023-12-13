@@ -14,6 +14,7 @@
 - [x] [Tranpose Matrix](https://leetcode.com/problems/transpose-matrix/description/) - Easy - [Solution](/Array/transpose_matrix.cpp)
 - [x] [Element Appearing More than 25% In Array](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/description/) - Easy - [Solution](/Array/element_appearing_more_than_25Percent_in_array.cpp)
 - [x] [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/description/) - Easy - [Solution](/Array/maximum_product_of_two_elements_in_an_array.cpp)
+- [x] [Special Positions in a Binary Matrix](https://leetcode.com/problems/special-positions-in-a-binary-matrix/description/) - Easy - [Solution](/Array/special_positions_in_a_binary_matrix.cpp)
 
 
 ### String
