@@ -15,6 +15,7 @@
 - [x] [Element Appearing More than 25% In Array](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/description/) - Easy - [Solution](/Array/element_appearing_more_than_25Percent_in_array.cpp)
 - [x] [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/description/) - Easy - [Solution](/Array/maximum_product_of_two_elements_in_an_array.cpp)
 - [x] [Special Positions in a Binary Matrix](https://leetcode.com/problems/special-positions-in-a-binary-matrix/description/) - Easy - [Solution](/Array/special_positions_in_a_binary_matrix.cpp)
+- [x] [Difference Between Ones and Zeros in Row and Column](https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/description/) - Medium - [Solution](/Array/difference_between_ones_and_zeros_in_rows_and_columns.cpp) 
 
 
 ### String
