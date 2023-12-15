@@ -25,6 +25,10 @@
 - [x] [Largest 3-Same-Digit Number in String](https://leetcode.com/problems/largest-3-same-digit-number-in-string/description) - Easy - [Solution](/String/largest_3_same_digit_number_in_string.cpp)
 - [x] [Largest Odd Number in String](https://leetcode.com/problems/largest-odd-number-in-string/description/) - Easy - [Solution](/String/largest_odd_number_in_string.cpp)
 
+### Hash Table
+
+- [x] [Destination City](https://leetcode.com/problems/destination-city/description/) - Easy - [Soluton](/Hash%20Table/destination_city.cpp)
+
 ### Tree
 
 - [x] [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/description/) - Easy - [Solution](https://github.com/Shadman-Ahmed-Chowdhury/LeetCode-Problems-Solutions/blob/master/Tree/convert_sorted_array_to_bst.cpp)
