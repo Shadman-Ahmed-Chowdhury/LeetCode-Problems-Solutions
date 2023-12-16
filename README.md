@@ -28,6 +28,7 @@
 ### Hash Table
 
 - [x] [Destination City](https://leetcode.com/problems/destination-city/description/) - Easy - [Soluton](/Hash%20Table/destination_city.cpp)
+- [x] [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) - Easy - [Solution](/Hash%20Table/valid_anagram.cpp)
 
 ### Tree
 
