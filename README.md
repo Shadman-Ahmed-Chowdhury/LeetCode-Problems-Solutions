@@ -29,6 +29,7 @@
 
 - [x] [Destination City](https://leetcode.com/problems/destination-city/description/) - Easy - [Soluton](/Hash%20Table/destination_city.cpp)
 - [x] [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) - Easy - [Solution](/Hash%20Table/valid_anagram.cpp)
+- [x] [Design a Food Rating System](https://leetcode.com/problems/design-a-food-rating-system/) - Easy - [Solution](/Hash%20Table/design_a_food_rating_system.cpp)
 
 ### Tree
 
