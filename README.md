@@ -16,6 +16,7 @@
 - [x] [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/description/) - Easy - [Solution](/Array/maximum_product_of_two_elements_in_an_array.cpp)
 - [x] [Special Positions in a Binary Matrix](https://leetcode.com/problems/special-positions-in-a-binary-matrix/description/) - Easy - [Solution](/Array/special_positions_in_a_binary_matrix.cpp)
 - [x] [Difference Between Ones and Zeros in Row and Column](https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/description/) - Medium - [Solution](/Array/difference_between_ones_and_zeros_in_rows_and_columns.cpp) 
+- [x] [Maximum Product Difference Between Two Pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/) - Easy - [Solution](/Array/maximum_product_difference_between_two_pairs.cpp)
 
 
 ### String
