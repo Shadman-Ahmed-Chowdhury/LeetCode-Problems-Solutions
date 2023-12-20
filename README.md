@@ -18,6 +18,7 @@
 - [x] [Difference Between Ones and Zeros in Row and Column](https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/description/) - Medium - [Solution](/Array/difference_between_ones_and_zeros_in_rows_and_columns.cpp) 
 - [x] [Maximum Product Difference Between Two Pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/) - Easy - [Solution](/Array/maximum_product_difference_between_two_pairs.cpp)
 - [x] [Image Smoother](https://leetcode.com/problems/image-smoother/description/) - Easy - [Solution](/Array/image_smoother.cpp)
+- [x] [Buy Two Chocolates](https://leetcode.com/problems/buy-two-chocolates/description/) - Easy - [Solution](/Array/buy_two_chocolates.cpp)
 
 ### String
 
