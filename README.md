@@ -19,6 +19,7 @@
 - [x] [Maximum Product Difference Between Two Pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/) - Easy - [Solution](/Array/maximum_product_difference_between_two_pairs.cpp)
 - [x] [Image Smoother](https://leetcode.com/problems/image-smoother/description/) - Easy - [Solution](/Array/image_smoother.cpp)
 - [x] [Buy Two Chocolates](https://leetcode.com/problems/buy-two-chocolates/description/) - Easy - [Solution](/Array/buy_two_chocolates.cpp)
+- [x] [Widest Vertical Area Between Two Points Containing No Points](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/description/) - Easy - [Solution](/Array/widest_vertical_area_between_two_points_containing_no_points.cpp)
 
 ### String
 
