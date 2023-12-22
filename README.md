@@ -27,6 +27,7 @@
 - [x] [Find Words That Can Be Formed By Characters]() - Easy - [Solution](/String/find_words_that_can_be_formed_by_characters.cpp)
 - [x] [Largest 3-Same-Digit Number in String](https://leetcode.com/problems/largest-3-same-digit-number-in-string/description) - Easy - [Solution](/String/largest_3_same_digit_number_in_string.cpp)
 - [x] [Largest Odd Number in String](https://leetcode.com/problems/largest-odd-number-in-string/description/) - Easy - [Solution](/String/largest_odd_number_in_string.cpp)
+- [x] [Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string/description/) - Easy - [Solution](/String/maximum_score_after_splitting_a_string.cpp)
 
 ### Hash Table
 
