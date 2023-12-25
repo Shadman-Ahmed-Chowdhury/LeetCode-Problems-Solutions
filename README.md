@@ -44,4 +44,4 @@
 - [x] [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/) - Easy - [Solution](/Tree/binary_tree_inorder_traversal.cpp)
 
 ### Dynamic Programming
-- [x] [Decode Ways](https://leetcode.com/problems/decode-ways/description/) - Easy - [Solution](/Dynamic%20Programming/decode_ways.cpp)
+- [x] [Decode Ways](https://leetcode.com/problems/decode-ways/description/) - Medium - [Solution](/Dynamic%20Programming/decode_ways.cpp)
