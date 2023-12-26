@@ -45,3 +45,4 @@
 
 ### Dynamic Programming
 - [x] [Decode Ways](https://leetcode.com/problems/decode-ways/description/) - Medium - [Solution](/Dynamic%20Programming/decode_ways.cpp)
+- [x] [Number of Dice Rolls With Target Sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/description/) - Medium - [Solution](/Dynamic%20Programming/number_of_dice_rolls_with_target_sum.cpp)
