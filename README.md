@@ -48,3 +48,4 @@
 - [x] [Decode Ways](https://leetcode.com/problems/decode-ways/description/) - Medium - [Solution](/Dynamic%20Programming/decode_ways.cpp)
 - [x] [Number of Dice Rolls With Target Sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/description/) - Medium - [Solution](/Dynamic%20Programming/number_of_dice_rolls_with_target_sum.cpp)
 - [x] [String Compression II](https://leetcode.com/problems/string-compression-ii/description/) - Hard - [Solution](/Dynamic%20Programming/string_compression_ii.cpp)
+- [x] [Minimum Difficulty of a Job Schedule](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/) - Hard - [Solution](/Dynamic%20Programming/minimum_difficulty_of_a_job_schedule.cpp)
