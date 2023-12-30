@@ -37,6 +37,8 @@
 - [x] [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) - Easy - [Solution](/Hash%20Table/valid_anagram.cpp)
 - [x] [Design a Food Rating System](https://leetcode.com/problems/design-a-food-rating-system/) - Medium - [Solution](/Hash%20Table/design_a_food_rating_system.cpp)
 - [x] [Path Crossing](https://leetcode.com/problems/path-crossing/description/) - Easy - [Solution](/Hash%20Table/path_crossing.cpp)
+- [x] [Redistribute Characters to Make All Strings Equal](https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/description/) - Easy - [Solution](/Hash%20Table/redistribute_characters_to_make_all_strings_equal.cpp)
+
 
 ### Tree
 
