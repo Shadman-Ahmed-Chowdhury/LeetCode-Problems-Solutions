@@ -22,6 +22,10 @@
 - [x] [Widest Vertical Area Between Two Points Containing No Points](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/description/) - Easy - [Solution](/Array/widest_vertical_area_between_two_points_containing_no_points.cpp)
 - [x] [Minimum Time to Make Rope Colorful](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/description/) - Medium - [Solution](/Array/minimum_time_to_make_rope_colorful.cpp)
 
+
+### Two Pointers
+- [x] [Assign Cookies](https://leetcode.com/problems/assign-cookies/description/) - Easy - [Solution](/Two%20Pointers/assign_cookies.cpp)
+
 ### String
 
 - [x] [Check if Two String Arrays Are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/) - Easy - [Solution](https://github.com/Shadman-Ahmed-Chowdhury/LeetCode-Problems-Solutions/blob/master/String/check_if_two_string_arrays_are_equivalent.cpp)
