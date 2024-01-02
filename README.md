@@ -21,6 +21,7 @@
 - [x] [Buy Two Chocolates](https://leetcode.com/problems/buy-two-chocolates/description/) - Easy - [Solution](/Array/buy_two_chocolates.cpp)
 - [x] [Widest Vertical Area Between Two Points Containing No Points](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/description/) - Easy - [Solution](/Array/widest_vertical_area_between_two_points_containing_no_points.cpp)
 - [x] [Minimum Time to Make Rope Colorful](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/description/) - Medium - [Solution](/Array/minimum_time_to_make_rope_colorful.cpp)
+- [x] [Convert an Array into a 2D Array With Conditions](https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/description) - Medium - [Solution](/Array/convert_an_array_into_2d_array_with_conditions.cpp)
 
 
 ### Two Pointers
