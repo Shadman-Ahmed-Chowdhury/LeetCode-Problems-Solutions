@@ -45,6 +45,7 @@
 - [x] [Redistribute Characters to Make All Strings Equal](https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/description/) - Easy - [Solution](/Hash%20Table/redistribute_characters_to_make_all_strings_equal.cpp)
 - [x] [Largest Substring Between Two Equal Characters](https://leetcode.com/problems/largest-substring-between-two-equal-characters/) - Easy - [Solution](/Hash%20Table/largest_substring_between_two_equal_characters.cpp)
 - [x] [Minimum Number of Operations to Make Array Empty](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-empty) - Medium - [Solution](/Hash%20Table/minimum_number_of_operations_to_make_array_empty.cpp)
+- [x] [Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/) - Easy - [Solution](/Hash%20Table/find_the_difference_of_two_arrays.cpp)
 
 ### Tree
 
