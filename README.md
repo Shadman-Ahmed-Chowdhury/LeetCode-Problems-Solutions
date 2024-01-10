@@ -34,7 +34,8 @@
 - [x] [Largest 3-Same-Digit Number in String](https://leetcode.com/problems/largest-3-same-digit-number-in-string/description) - Easy - [Solution](/String/largest_3_same_digit_number_in_string.cpp)
 - [x] [Largest Odd Number in String](https://leetcode.com/problems/largest-odd-number-in-string/description/) - Easy - [Solution](/String/largest_odd_number_in_string.cpp)
 - [x] [Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string/description/) - Easy - [Solution](/String/maximum_score_after_splitting_a_string.cpp)
-- [x] [Minimum Changes to Make Alternating Binary String](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/description/) - Easy - [Solution](/String/minimum_changes_to_make_alternating_binary_string.cpp) 
+- [x] [Minimum Changes to Make Alternating Binary String](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/description/) - Easy - [Solution](/String/minimum_changes_to_make_alternating_binary_string.cpp)
+- [x] [Find Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/description/) - Easy - [Solution](/String/first_unique_characters_in_a_string.cpp)  
 
 ### Hash Table
 
