@@ -23,6 +23,8 @@
 - [x] [Minimum Time to Make Rope Colorful](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/description/) - Medium - [Solution](/Array/minimum_time_to_make_rope_colorful.cpp)
 - [x] [Convert an Array into a 2D Array With Conditions](https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/description) - Medium - [Solution](/Array/convert_an_array_into_2d_array_with_conditions.cpp)
 
+- [x] [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) - Easy - [Solution](/Array/last_stone_weight.cpp)
+
 
 ### Two Pointers
 - [x] [Assign Cookies](https://leetcode.com/problems/assign-cookies/description/) - Easy - [Solution](/Two%20Pointers/assign_cookies.cpp)
